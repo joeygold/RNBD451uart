@@ -1,4 +1,4 @@
-# RNBD451uart
+# RNBD451uart Windows  Python
 Python Transparent UART for RNBD451 tested with Windows 10
 
 Simple Terminal Program to chat between terminal and UART of RNBD451
